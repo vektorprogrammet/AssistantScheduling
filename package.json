@@ -27,7 +27,7 @@
     "deepmerge": "4.2.2",
     "file-loader": "6.2.0",
     "node-sass": "4.14.1",
-    "sass": "1.32.8",
+    "sass": "1.80.4",
     "sass-loader": "11.0.1",
     "stylus": "0.54.8",
     "stylus-loader": "5.0.0",
