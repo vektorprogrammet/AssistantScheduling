@@ -6100,10 +6100,10 @@ vue@2.6.12:
   resolved "https://registry.npmjs.org/vue/-/vue-2.6.12.tgz"
   integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
 
-vuetify@2.4.6:
-  version "2.4.6"
-  resolved "https://registry.npmjs.org/vuetify/-/vuetify-2.4.6.tgz"
-  integrity sha512-oqAWKAin07ip/QuT/p4bL1LegE3MYPbfojrOcj80RATZDSnJyco2PZD8QuIzd0RhYfdAuSTkY8elvHsLu90RuQ==
+vuetify@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-3.0.0.tgz#372eed0663f0ffba53439cd99aa46031e560b0f4"
+  integrity sha512-0olLmKWb+oTaebGTM02+1fWaAgnGDuIt86K3jDv2LnALQ2atSzhDS1SSASJsJCZ2PgFBdDAeJVLcNWWavRYAlQ==
 
 vuex@3.6.2:
   version "3.6.2"
